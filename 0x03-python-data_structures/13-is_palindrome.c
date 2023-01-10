@@ -1,4 +1,7 @@
-#include "lists.h"
+nclude "lists.h"
+
+listint_t *reverse_listint(listint_t **head);
+int is_palindrome(listint_t **head);
 
 listint_t *reverse_listint(listint_t **head);
 int is_palindrome(listint_t **head);
