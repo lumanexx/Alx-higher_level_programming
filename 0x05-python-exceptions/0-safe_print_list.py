@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-safe_print_list.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Emmanuel ulu <techlumanex@gmail.com>
 
 
 def safe_print_list(my_list=[], x=0):
