@@ -1,4 +1,3 @@
-es (60 sloc)  2.07 KB
 #!/usr/bin/python3
 # 4-rectangle.py
 """Defines a Rectangle class."""
